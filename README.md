@@ -1,2 +1,2 @@
 # Angular-Udemy-Tutorial
-Example AngularJs 
+Practicing AngularJs from Udemy course.
